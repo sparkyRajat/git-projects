@@ -52,9 +52,9 @@ nav ul li a {
 }
 
 .content h1 {
-  font-size: 60px;
+  font-size: 40px;
   color: #ffffff;
-  font-weight: 400;
+  font-weight: 100;
 }
 
 .content a {
@@ -72,8 +72,8 @@ nav ul li a {
 .content p {
   margin-top: 5px;
   color: #ffffff;
-  font-size: 30px;
-  font-weight: 1000;
+  font-size: 20px;
+  font-weight: 500;
   word-spacing: 5px;
 }
 
